@@ -1,9 +1,11 @@
-# Hi, I'm Abid Ibrahim
+Hi, I'm Abid Ibrahim
 
-I am an aspiring Machine Learning Engineer from Karachi.
+I'm an 18-year-old aspiring Data Analyst from Karachi.
 
-I work with Python, Pandas, Scikit-learn, and XGBoost.
+I use Python, Pandas, Matplotlib, and Seaborn to clean data and find answers in it. I'm also studying AI and machine learning at NED Academy.
 
-Currently learning: Deep Learning with PyTorch.
+Currently learning: SQL and Business Intelligence
+
+Looking for: internships and junior data analyst roles
 
 LinkedIn: www.linkedin.com/in/abid-ibrahim-441843417
